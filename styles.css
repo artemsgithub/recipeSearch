@@ -1,0 +1,37 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.search{   
+     border: 1px solid rgb(112, 112, 112);
+     margin-bottom: 25px;
+}
+
+.mb-auto {
+    margin-left: 55px;
+}
+
+.app-title{
+    font-family: 'Lora', serif;
+}
+
+
+.instructions-links {
+    background: #ffe359;
+    position: relative;
+    margin: 5px 0px 5px 0px;
+    
+
+}
+
+.recipes {
+    list-style: none;
+}
+
+.rec-title {
+    margin-bottom: 3px;
+}
+
+.ingredients{
+    margin-bottom: 5px;
+}
